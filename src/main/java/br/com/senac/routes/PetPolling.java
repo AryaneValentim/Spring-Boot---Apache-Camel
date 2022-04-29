@@ -11,11 +11,11 @@ public class PetPolling extends RouteBuilder{
 
 	@Override
 	public void configure() throws Exception {
-		
-		from("timer:pet?period=5000")
-			.setHeader("id", simple("${random(0,3)}"))
-			.to("rest:get:pets/{id}?host=http://localhost:8080")
-			.process(new PetProcessor())
-			.log("${body}");
+//		
+//		from("timer:pet?period=5000")
+//			.setHeader("id", simple("${random(0,3)}"))
+//			.to("rest:get:pets/{id}?host=http://localhost:8080")
+//			.process(new PetProcessor())
+//			.log("${body}");
 	}
 }

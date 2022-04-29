@@ -21,6 +21,6 @@ public class PetProcessor implements Processor {
 		
 		System.out.println("petObj" + pet);
 		
-		//exercício salvar pet no banco de dados
+		//exercício: salvar pet no banco de dados
 	}
 }
