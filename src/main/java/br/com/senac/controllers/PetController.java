@@ -13,9 +13,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.com.senac.PetService;
 import br.com.senac.entities.PetEntity;
 import br.com.senac.repositories.PetRepository;
+import br.com.senac.service.PetService;
 
 @RestController
 @RequestMapping(value="pets")

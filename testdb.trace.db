@@ -1,0 +1,75 @@
+2022-04-29 12:04:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:04:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:04:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:04:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:19 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET_ENTITY" not found; SQL statement:
+insert into pet_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:47 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET_ENTITY" not found; SQL statement:
+insert into pet_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:52 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET_ENTITY" not found; SQL statement:
+insert into pet_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:05:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET_ENTITY" not found; SQL statement:
+insert into pet_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET_ENTITY" not found; SQL statement:
+insert into pet_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PETS_ENTITY" not found; SQL statement:
+insert into pets_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:11 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PETS_ENTITY" not found; SQL statement:
+insert into pets_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PETS_ENTITY" not found; SQL statement:
+insert into pets_entity (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:18 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]
+2022-04-29 12:06:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PET" not found; SQL statement:
+insert into pet (id, nome) values (default, ?) [42102-200]

@@ -6,8 +6,18 @@ import org.apache.camel.Processor;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import br.com.senac.entities.PetEntity;
+import br.com.senac.service.PetService;
+
 
 public class PetProcessor implements Processor {
+	
+	
+	private PetService petService;
+	
+	
+	public PetProcessor( PetService petService ){
+		this.petService = petService;
+	}
 	
 	@Override
 	public void process(Exchange exchange) throws Exception {
@@ -20,6 +30,10 @@ public class PetProcessor implements Processor {
 		PetEntity pet = mapper.readValue(petStr, PetEntity.class);
 		
 		System.out.println("petObj" + pet);
+		
+		pet.setId(null);
+		petService.save(pet);
+		
 		
 		//exercício: salvar pet no banco de dados
 	}

@@ -1,4 +1,4 @@
-package br.com.senac;
+package br.com.senac.service;
 
 import java.util.ArrayList;
 import java.util.List;
